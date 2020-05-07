@@ -1,0 +1,9 @@
+C:\Users\李光辉\source\repos\文件移动\文件移动\bin\Debug\文件移动.exe.config
+C:\Users\李光辉\source\repos\文件移动\文件移动\bin\Debug\文件移动.exe
+C:\Users\李光辉\source\repos\文件移动\文件移动\bin\Debug\文件移动.pdb
+C:\Users\李光辉\source\repos\文件移动\文件移动\obj\Debug\文件移动.csprojAssemblyReference.cache
+C:\Users\李光辉\source\repos\文件移动\文件移动\obj\Debug\文件移动.Form1.resources
+C:\Users\李光辉\source\repos\文件移动\文件移动\obj\Debug\文件移动.Properties.Resources.resources
+C:\Users\李光辉\source\repos\文件移动\文件移动\obj\Debug\文件移动.csproj.GenerateResource.cache
+C:\Users\李光辉\source\repos\文件移动\文件移动\obj\Debug\文件移动.exe
+C:\Users\李光辉\source\repos\文件移动\文件移动\obj\Debug\文件移动.pdb
